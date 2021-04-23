@@ -75,7 +75,7 @@ class _HeroPageState extends State<HeroPage> {
     else{
       vis = false;
       firstButtonFunc = (){
-        upAnimation(MenuPage());
+        Navigator.of(context).push(upAnimation(MenuPage()));
       };
       firstButtonText = "START";
     }

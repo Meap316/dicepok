@@ -14,15 +14,13 @@ dependencies:
 
   dots_indicator: ^1.2.0
   cupertino_icons: ^1.0.0
-  flutter_svg: ^0.19.1
-  flutter_svg_provider: ^0.1.8
+  flutter_launcher_icons: "^0.8.0"
+  flutter_svg: ^0.19.3
 
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
-  flutter_launcher_icons: "^0.8.0"
 
 flutter_icons:
   android: "launcher_icon"
